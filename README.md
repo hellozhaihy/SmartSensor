@@ -1,2 +1,1 @@
-# 中科大智能传感器课程主页
-
+Home page of Smart Sensor Course of USTC.
