@@ -40,3 +40,9 @@ li {
     /* line-height: 1.8rem; */
     margin-bottom: 0.5rem;
 }
+
+th,
+td {
+    text-align: center;
+    /* margin: 0 auto; */
+}
